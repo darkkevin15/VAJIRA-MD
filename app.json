@@ -6,8 +6,8 @@
   "success_url": "/",
 
   "env": {
-    "SESSION_ID": {VAJIRA-MD=acUQAZgY#BX942vIJFdrRFwlUJZ8TfERcA-kskaRUeLupsUa2N_s}
-            "description": "Type the Session-ID you got from scaning QR",
+    "SESSION_ID": {
+            "description": "VAJIRA-MD=acUQAZgY#BX942vIJFdrRFwlUJZ8TfERcA-kskaRUeLupsUa2N_s",
             "required": true,
             "value": "put session id here"
         },
